@@ -1,0 +1,1 @@
+# faktoriyel_patika.dev
